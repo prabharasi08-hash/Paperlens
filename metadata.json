@@ -1,0 +1,6 @@
+{
+  "name": "PaperLens",
+  "description": "Autonomous AI research agent to analyze, critique, compare, and query research paper PDFs up to 100MB with long-context Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
